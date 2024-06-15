@@ -22,7 +22,7 @@ Open Git Bash and change the directory to the location where the repository is t
   git init
 ```
 ```shell
-  git clone https://github.com/SanKolisetty/AI-Image-Classifier.git
+  git clone https://github.com/chiro2004/AI_Image_Classifier_Web_App.git
 ```
 Now, install the requirements using the following command.
 
